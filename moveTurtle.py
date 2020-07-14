@@ -19,7 +19,7 @@ def moveTurtle():
     velFwd.angular.z = 0
 
     velTrn = Twist()
-    velTrn.linear.x = 0
+    velTrn.linear.x = 0.2
     velTrn.linear.y = 0
     velTrn.linear.z = 0
     velTrn.angular.x = 0
